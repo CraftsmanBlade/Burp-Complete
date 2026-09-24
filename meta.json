@@ -1,0 +1,23 @@
+{
+  "repo": "burp-complete",
+  "product": "Burp Complete",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "burp",
+    "burp-windows",
+    "endpoint-security-desktop",
+    "how-to-install-burp",
+    "burp-desktop-package",
+    "burp-workspace",
+    "burp-pro-tools",
+    "burp-suite",
+    "zentool-burp",
+    "burp-tool-9"
+  ],
+  "site": "zentool.art"
+}
